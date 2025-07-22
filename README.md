@@ -69,7 +69,6 @@ Interests:        AI, Web3, Open Source, Data Visualization
 ## ✨ Fun Facts
 
 - I sketch UI ideas on napkins before coding.
-- My favorite debugging snack: [your snack].
 - Every bug is a lesson in disguise.
 
 ---
