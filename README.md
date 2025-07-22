@@ -26,7 +26,7 @@
 ```yaml
 Languages:        Python, JavaScript, TypeScript, Rust
 Frameworks:       React, Next.js, FastAPI, Django
-Tools:            Docker, GitHub Actions, VSCode, Figma
+Tools:            Canva, GitHub Actions, VSCode, Figma
 Interests:        AI, Web3, Open Source, Data Visualization
 ```
 
