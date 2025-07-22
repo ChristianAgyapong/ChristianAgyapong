@@ -286,50 +286,11 @@ timeline
 
 ---
 
-## 💭 **Professional Motto**
 
-<div align="center">
-  
-  <img src="https://readme-quotes-api.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic.%20Every%20function%20tells%20a%20story,%20every%20algorithm%20solves%20a%20puzzle,%20and%20every%20application%20creates%20possibilities.&author=Christian%20Agyapong&border=true&borderColor=00D4AA" alt="Professional Quote">
-  
-</div>
 
 ---
 
-## 🌐 **Connect & Collaborate**
 
-<div align="center">
-  
-  <table>
-  <tr>
-  <td align="center" width="25%">
-    <a href="https://www.linkedin.com/in/christian-agyapong">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
-      <br><strong>Professional Network</strong>
-    </a>
-  </td>
-  <td align="center" width="25%">
-    <a href="https://christianagyapong.dev">
-      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white&labelColor=FF6B6B">
-      <br><strong>Featured Projects</strong>
-    </a>
-  </td>
-  <td align="center" width="25%">
-    <a href="https://twitter.com/ChristianAgyapong">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2">
-      <br><strong>Tech Insights</strong>
-    </a>
-  </td>
-  <td align="center" width="25%">
-    <a href="mailto:christian.agyapong@example.com">
-      <img src="https://img.shields.io/badge/Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4ECDC4">
-      <br><strong>Direct Contact</strong>
-    </a>
-  </td>
-  </tr>
-  </table>
-  
-</div>
 
 ---
 
