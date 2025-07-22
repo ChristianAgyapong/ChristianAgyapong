@@ -56,11 +56,6 @@ Interests:        AI, Web3, Open Source, Data Visualization
 
 ---
 
-## 🚀 Featured Projects
-
-- [Project One](https://github.com/ChristianAgyapong/project-one) — Open-source toolkit for [describe purpose].
-- [Project Two](https://github.com/ChristianAgyapong/project-two) — Playful web app that [describe feature].
-- [Project Three](https://github.com/ChristianAgyapong/project-three) — Exploring [tech field] frontiers.
 
 ---
 
@@ -79,12 +74,6 @@ Interests:        AI, Web3, Open Source, Data Visualization
 
 ---
 
-## 🤝 Connect With Me
 
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [yourdomain.com](https://yourdomain.com)
-
----
 
 > *“Build with curiosity, share with generosity, grow with humility.”*
