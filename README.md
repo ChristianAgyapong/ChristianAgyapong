@@ -1,7 +1,7 @@
 ,m,.njm<div alcente
 
 <img src="h://avatars.githubcontentchhChriaupwmmm
-[![Typing SVG](s://readme-typisvg.dem.cof=FiC
+[![Typing SVG](s://readme-typisvg.dem.c=FiC
 | ![React](https://img.ldso/bgeamjm,
 | ![AWS](https://img.shs./bad
 nmm
