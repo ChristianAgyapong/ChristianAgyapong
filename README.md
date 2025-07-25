@@ -4,7 +4,7 @@
 [![Typing SVG](s://readme-typisvg.dem.cof=FiCm 
 | ![React](https://img.shieldso/badgeab?mjm,
 | ![AWS](https://img.shields./badg/An
-nmmmmm
+nmm
 <div align="n
 
 ```mermaid
