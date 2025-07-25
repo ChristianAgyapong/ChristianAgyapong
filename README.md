@@ -7,8 +7,7 @@
 </p>
 
 --
-<div align="center"> solutions with po
-</div>
+<div align="center"> solutions wit
 
 ---
 
