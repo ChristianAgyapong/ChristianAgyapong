@@ -1,7 +1,7 @@
 <div alcenter"
 
 <img src="h://avatars.githubcontent.coChriapwidth
-[![Typing SVG](s://readme-typisvg.dem.cof=Fira+Code&weight=802aAps:
+[![Typing SVG](s://readme-typisvg.dem.cof=Fira+Code&weight=802aAp
 | ![React](https://img.shields.io/badge/Reactb?styore-badgeogo=reactrl/-bge&logohonleor-tbadge&logo=pyn) ![Node.js](https://img.shields.io/badge/Node.-339933?stye=fthb&
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?styleor-e-&logo/=o
 <div align="
