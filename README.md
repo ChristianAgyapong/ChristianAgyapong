@@ -8,7 +8,7 @@
 
 <p>
   elColor=232946">
-  <img src="https://img.shields.io/badge/🤝%20Collaboration-FF6B6B?style=for-the-badge&labelColor=232946">
+  <img src="https://img.shields.io/badge/🤝%20Collaboration-FF6B6B?style=for-the-badge&laColor=232946">
 </p>
 </div>
 
