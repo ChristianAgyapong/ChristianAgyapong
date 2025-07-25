@@ -1,6 +1,6 @@
 m<div alcente
 
-<img src="h://avatars.githubcontent.cohhChriapw
+<img src="h://avatars.githubcontent.cohhChriapwm
 [![Typing SVG](s://readme-typisvg.dem.cof=FiC
 | ![React](https://img.shieldso/badgeab?
 | ![AWS](https://img.shields.io/badge/A
