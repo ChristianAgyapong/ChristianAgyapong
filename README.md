@@ -2,7 +2,7 @@
 
 # 🚀 Christian 
 
-<img src="https://avatars.githubusercontent.coChristiangyapwidth="105" yle="bordera50%; bod #00D4AA
+<img src="https://avatars.githubusercontent.coChristiangyapwidth="105" yle="bordera50%; bod #0AA
 
 [![Typing SVG](https://readme-typing-svg.demolab.cofont=Fira+Code&weight=800&size=24&pause=1000&coor=00D4AA&cetetrue&vCenterruwidth20&heig=3&lineInnova.;Enier.;Mtor.;Impact+Driven+Tech.)](https://git.io/typing-svg
 <p>the-badge&
