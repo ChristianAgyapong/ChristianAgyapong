@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=520&height=34&lines=Innovator.;Engineer.;Mentor.;Impact+Driven+Tech.)](https://git.io/typing-svg)
 
-<p>the-badge&laColo
+<p>the-badge&laCo
 </p>
 
 ---
