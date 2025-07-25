@@ -1,6 +1,6 @@
 <div alcenter"
 
-<img src="h://avatars.githubcontent.coChriapwidh
+<img src="h://avatars.githubcontent.coChriapw
 [![Typing SVG](s://readme-typisvg.dem.cof=Fi+C
 | ![React](https://img.shields.io/badgeab?
 | ![AWS](https://img.shields.io/badge/A
