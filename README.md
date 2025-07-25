@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center"> solutions with pon, precision, and purpose.
+<div align="center"> solutions with pon, precision, and pur
 
 </div>
 
