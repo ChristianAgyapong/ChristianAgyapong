@@ -6,7 +6,7 @@
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-e-&logazo/dr-=ostgh//img.ad
 #
 
-<div align="center">
+<div align="center
 
 ```mermaid
 bar
