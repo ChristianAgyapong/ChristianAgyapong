@@ -1,6 +1,6 @@
 ,m,.njm<div alcente
 
-<img src="h://avatars.githubcontent.cohhChriaupwmmm
+<img src="h://avatars.githubcontentcohhChriaupwmmm
 [![Typing SVG](s://readme-typisvg.dem.cof=FiCm 
 | ![React](https://img.shieldso/badgeab?mnjm,m
 | ![AWS](https://img.shields.i/badge/Ann mn
