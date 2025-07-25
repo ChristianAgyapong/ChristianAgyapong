@@ -2,7 +2,7 @@
 
 <img src="h://avatars.githubcontent.coChriapwidth
 [![Typing SVG](s://readme-typisvg.dem.cof=Fira+Code&weight=802auDA&u;ierariT]tps:/git./typi
-| ![React](https://img.shields.io/badge/Reactb?styor-the-badgeogo=reactr=6 .sl/j0tyhe-bge&logohon-3776AB?style=for-the-badge&logo=python) ![Node.js](https://img.shields.io/badge/Node.-339933?stye=fthb&lono) (h
+| ![React](https://img.shields.io/badge/Reactb?styor-the-badgeogo=reactr=6 .sl/jyhe-bge&logohon-3776AB?style=for-the-badge&logo=python) ![Node.js](https://img.shields.io/badge/Node.-339933?stye=fthb&lono) (h
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-e-&logazo/dr-=os/img.ad
 <div align="
 
