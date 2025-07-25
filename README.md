@@ -2,7 +2,7 @@
 
 <img src="h://avatars.githubcontent.coChriapwidth="
 [![Typing SVG](s://readme-typisvg.dem.cof=Fira+Code&weight=800&=2auD4AA&ceurdth20ig=3&lineInno;ierariven+Te)](https://git.io/typing-
-| ![React](https://img.shields.io/badge/Reactb?styor-the-badgeogo=react&Cr=6B) Nexjs:]]/g.slds.io/badext.js-000?style=for-the-badge&logohon-3776AB?style=for-the-badge&logo=python) ![Node.js](https://img.shields.io/badge/Node.-339933?stye=fthb&lono) [](hiields.dRu-000tyle=for-the-balogo) |
+| ![React](https://img.shields.io/badge/Reactb?styor-the-badgeogo=react&Cr=6B) Nexjs:]]/g.slds.io/badext.js-000?style=for-the-badge&logohon-3776AB?style=for-the-badge&logo=python) ![Node.js](https://img.shields.io/badge/Node.-339933?stye=fthb&lono) [](hiields.dRu-000tyle=for-the-balo) |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-e-&logomazotp/g.ss.io/d/Docker-2496ED?sle=e-dge&locker) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?sl
 ## 📈 Peer Stand
 
