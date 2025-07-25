@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/Christiangyapong" width="105" style="border-radius:50%; border:2.5px sd #00D4AA;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=520&height=34&lines=Innovator.;Engineer.;Mentor.;Impact+Driven+Tech.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&coor=00D4AA&center=true&vCenter=true&width=520&height=34&lines=Innovator.;Engineer.;Mentor.;Impact+Driven+Tech.)](https://git.io/typing-svg)
 
 <p>the-badge&laCo
 </p>
