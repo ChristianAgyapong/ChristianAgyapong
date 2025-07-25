@@ -12,7 +12,7 @@
 
 ---
 
-<div align="center"> solutions with passion, precision, and purpose.
+<div align="center"> solutions with pon, precision, and purpose.
 
 </div>
 
