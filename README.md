@@ -5,7 +5,7 @@ njm<div alcente
 | ![React](https://img.shieldso/badgeab?m
 | ![AWS](https://img.shields.io/badge/An
 
-<div align="
+<div align="n
 
 ```mermaid
 barn
