@@ -1,4 +1,4 @@
-,m,.njm<div alcente
+  ,m,.njm<div alcente
 
 <img s="h://avatars.githubcontentchriaupwm
 [![Typing SVG]( s://rmleadme-typisvg.dem.c=Fk
