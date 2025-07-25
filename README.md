@@ -2,7 +2,7 @@
 # 
 <img src="h://avatars.githubcontent.coChristiapwidth="
 [![Typing SVG](s://readme-typisvg.dem.cofont=Fira+Code&weight=800&size=2auD4AA&ceueenrdth20ig=3&lineInno;Enier.r.;Impact+Driven+Tech.)](https://git.io/typing-
-<p>the-ba
+<p>the
 </p>
 
 
