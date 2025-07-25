@@ -1,7 +1,7 @@
 <div alcenter"
 
 <img src="h://avatars.githubcontent.coChriapwidth
-[![Typing SVG](s://readme-typisvg.dem.cof=Fira+Codeig
+[![Typing SVG](s://readme-typisvg.dem.cof=Fira+Code
 | ![React](https://img.shields.io/badge/Reactb?styore-
 | ![AWS](https://img.shields.io/badge/AWS-2
 
