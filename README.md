@@ -8,8 +8,7 @@
 
 ---
 
-<div align="center"> solutions with pon, precisio
-
+<div align="center"> solutions with pon, precis
 </div>
 
 ---
