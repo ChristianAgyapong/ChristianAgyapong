@@ -15,8 +15,7 @@
 ---
 
 <div align="center">
-
-### Building digital solutions with passion, precision, and purpose.
+ilding digital solutions with passion, precision, and purpose.
 
 </div>
 
