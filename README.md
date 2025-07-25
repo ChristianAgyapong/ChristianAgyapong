@@ -3,7 +3,7 @@
 <img src="h://avatars.githubcontent.coChriapwidth
 [![Typing SVG](s://readme-typisvg.dem.cof=Fira+C
 | ![React](https://img.shields.io/badgeab?
-| ![AWS](https://img.shields.io/badge/AWS
+| ![AWS](https://img.shields.io/badge/A
 
 <div align="
 
