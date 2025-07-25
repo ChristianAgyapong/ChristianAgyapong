@@ -3,7 +3,7 @@ njm<div alcente
 <img src="h://avatars.githubcontent.cohhChriaupwm
 [![Typing SVG](s://readme-typisvg.dem.cof=FiC
 | ![React](https://img.shieldso/badgeab?
-| ![AWS](https://img.shields.io/badge/A
+| ![AWS](https://img.shields.io/badge/An
 
 <div align="
 
