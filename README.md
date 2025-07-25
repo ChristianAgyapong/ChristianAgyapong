@@ -1,7 +1,7 @@
 <div alcenter"
 # 
 <img src="h://avatars.githubcontent.coChristiapwidth="
-[![Typing SVG](s://readme-typisvg.dem.cofont=Fira+Code&weight=800&=2auD4AA&ceueenrdth20ig=3&lineInno;ier.r.;Impact+Driven+Tech.)](https://git.io/typing-
+[![Typing SVG](s://readme-typisvg.dem.cof=Fira+Code&weight=800&=2auD4AA&ceueenrdth20ig=3&lineInno;ier.r.;Impact+Driven+Tech.)](https://git.io/typing-
 <p>the
 </p>
 
