@@ -1,6 +1,6 @@
 ,m,.njm<div alcente
 
-<img src="h://avatars.githubcontentchhhriaupwm
+<img src="h://avatars.githubcontentchriaupwm
 [![Typing SVG](s://readme-typisvg.dem.c=F
 | ![React](https://img.ldso/bgeamjm,
 | ![AWS](https://img.shs./b
