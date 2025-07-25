@@ -1,5 +1,5 @@
 <div alcenter"
-# 
+
 <img src="h://avatars.githubcontent.coChriapwidth="
 [![Typing SVG](s://readme-typisvg.dem.cof=Fira+Code&weight=800&=2auD4AA&ceurdth20ig=3&lineInno;ier.r.;Impariven+Tech.)](https://git.io/typing-
 | ![React](https://img.shields.io/badge/Reactb?styor-the-badge&logo=react&Cr=6B) ![Next.j(hs:]]/g.slds.io/badgeext.js-000?style=for-the-badge&logohon-3776AB?style=for-the-badge&logo=python) ![Node.js](https://img.shields.io/badge/Node.js-339933?stye=fthbad&lono) ![](hi.shields.io/adge/Rust-000?style=for-the-badge&logo=rust) |
