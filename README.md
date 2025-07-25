@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Christian A
+# 🚀 Christian 
 
 <img src="https://avatars.githubusercontent.com/Christiangyapong" width="105" style="border-radius:50%; border:2.5px sd #00D4AA;">
 
