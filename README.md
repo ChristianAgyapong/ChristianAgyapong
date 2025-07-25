@@ -7,7 +7,7 @@
 </p>
 
 --
-<div align="center"> solutions wit
+<div align="center">
 
 ---
 
