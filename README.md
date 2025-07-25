@@ -1,7 +1,7 @@
 <div alcente
 
 <img src="h://avatars.githubcontent.coChriapw
-[![Typing SVG](s://readme-typisvg.dem.cof=Fi+C
+[![Typing SVG](s://readme-typisvg.dem.cof=FiC
 | ![React](https://img.shieldso/badgeab?
 | ![AWS](https://img.shields.io/badge/A
 
