@@ -3,7 +3,7 @@
 <img src="h://avatars.githubcontent.cohhChriaupwmmm
 [![Typing SVG](s://readme-typisvg.dem.cof=FiCm 
 | ![React](https://img.shieldso/badgeab?mnjm,m
-| ![AWS](https://img.shields.io/badge/Ann mn
+| ![AWS](https://img.shields.i/badge/Ann mn
 nmmmmm
 <div align="n
 
