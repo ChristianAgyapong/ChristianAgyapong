@@ -2,7 +2,7 @@
 
 # 🚀 Christi
 <img src="https://avatars.githubusercontent.coChristiangpwidth="
-[![Typing SVG](https://readme-typing-svg.demolab.cofont=Fira+Code&weight=800&size=24&pause=1000&coor=00D4AA&cetetrue&vCenterruwidth20&heig=3&lineInnova.;Enier.;Mtor.;Impact+Driven+Tech.)](https://git.io/typing-
+[![Typing SVG](s://readme-typing-svg.demolab.cofont=Fira+Code&weight=800&size=24&pause=1000&coor=00D4AA&cetetrue&vCenterruwidth20&heig=3&lineInnova.;Enier.;Mtor.;Impact+Driven+Tech.)](https://git.io/typing-
 <p>the-badge&
 </p>
 
