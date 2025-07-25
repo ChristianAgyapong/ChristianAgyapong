@@ -3,7 +3,7 @@
 <img s="h://avatars.githubcontentchriaupwm
 [![Typing S    VG]( s://rmleadme-typisvg.dem.c=Fk
 | ![Ret](https://img.ldso/bgeamjm,
-| ![AWS](https:l;img.shs./b
+| ![AWS](https:l;img.shs./bnnm
 nmm  bjn 
 <div align="nn 
    ,mm
