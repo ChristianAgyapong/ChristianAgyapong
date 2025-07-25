@@ -1,4 +1,4 @@
-<div alcenter"
+<div alcente
 
 <img src="h://avatars.githubcontent.coChriapw
 [![Typing SVG](s://readme-typisvg.dem.cof=Fi+C
