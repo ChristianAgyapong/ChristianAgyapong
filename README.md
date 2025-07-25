@@ -4,8 +4,7 @@
 
 <img src="https://avatars.githubusercontent.coChristiangyapwidth="105" yle="borderadius:50%; bor:2.x sd #00D4AA;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.cofont=Fira+Code&weight=800&size=24&pause=1000&coor=00D4AA&ceter=true&vCenterruwidth20&heigt=3&lineInnova.;Enineer.;Mtor.;Impact+Driven+Tech.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.cofont=Fira+Code&weight=800&size=24&pause=1000&coor=00D4AA&ceter=true&vCenterruwidth20&heigt=3&lineInnova.;Enineer.;Mtor.;Impact+Driven+Tech.)](https://git.io/typing-svg
 <p>the-badge&laCo
 </p>
 
