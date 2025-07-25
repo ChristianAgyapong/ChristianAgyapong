@@ -7,8 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=520&height=34&lines=Innovator.;Engineer.;Mentor.;Impact+Driven+Tech.)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/🌍 Accra,%20Ghana-00D4AA?style=for-the-badge&labelColor=232946">
-  <img src="https://img.shields.io/badge/💡%20Learning-4ECDC4?style=for-the-badge&labelColor=232946">
+  elColor=232946">
   <img src="https://img.shields.io/badge/🤝%20Collaboration-FF6B6B?style=for-the-badge&labelColor=232946">
 </p>
 </div>
