@@ -4,7 +4,7 @@
 [![Typing S    VG]( s://rmleadme-typismmvg.dem.c
 | ![Ret](https://img.nnldso/bgeamjjjm,nnnm 
 | ![AWS](https:l;img.shs./bnnmnmnnmnnnbnn  mmm
-nmm  bjn nmnn
+nmm  bjn nmnnm
 <div align="nn       nnnn
    ,mmnmnm m 
 ```mermaid
