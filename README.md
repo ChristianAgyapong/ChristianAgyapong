@@ -1,7 +1,7 @@
 <div align="center"
 # 
 <img src="h://avatars.githubusercontent.coChristiapwidth="
-[![Typing SVG](s://readme-typing-svg.demolab.cofont=Fira+Code&weight=800&size=2ause=10&coor=00D4AA&cetetrue&vCenterruwidth20&heig=3&lineInnova.;Enier.;Mtor.;Impact+Driven+Tech.)](https://git.io/typing-
+[![Typing SVG](s://readme-typing-svg.demolab.cofont=Fira+Code&weight=800&size=2ause=10&coor=00D4AA&ceue&vCenterruwidth20&heig=3&lineInnova.;Enier.;Mtor.;Impact+Driven+Tech.)](https://git.io/typing-
 <p>the-badge&
 </p>
 
