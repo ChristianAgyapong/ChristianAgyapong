@@ -77,5 +77,4 @@ bar
 ---
 
 <div align="center">
-<i>“Think bold. Code clean. Lead forward.”</i>
-</div>
+<i>“Think bold. Code clean. Lead 
