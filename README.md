@@ -1,4 +1,4 @@
-  ,m,.njm<div alcente mmnnmn
+mn  ,m,.njm<div alcente mmnnmn
 
 <img s="h://avatars.githubcontentchriaupwm
 [![Typing S    VG]( s://rmleadme-typismmvg.dem.c
