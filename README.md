@@ -10,7 +10,7 @@
 ## 
 
 
-| ![React](https://img.shields.io/badge/React-22223b?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logohon-3776AB?style=for-the-badge&logo=python) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust) |
+| ![React](https://img.shields.io/badge/React-3b?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logohon-3776AB?style=for-the-badge&logo=python) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust) |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) |
 
 </div>
