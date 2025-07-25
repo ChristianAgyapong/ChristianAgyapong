@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center"> solutions with pon, precision, and pur
+<div align="center"> solutions with pon, precision, and
 
 </div>
 
