@@ -1,7 +1,7 @@
   ,m,.njm<div alcente mmnnmn
 
 <img s="h://avatars.githubcontentchriaupwm
-[![Typing S    VG]( s://rmleadme-typisvg.dem.c=Fk
+[![Typing S    VG]( s://rmleadme-typismmvg.dem.c=Fk
 | ![Ret](https://img.ldso/bgeamjm,nnn
 | ![AWS](https:l;img.shs./bnnmnnnnn  
 nmm  bjn nmnn
