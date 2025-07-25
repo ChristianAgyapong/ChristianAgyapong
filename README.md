@@ -1,7 +1,7 @@
 ,m,.njm<div alcente
 
 <img s="h://avatars.githubcontentchriaupwm
-[![Typing SVG](s://readme-typisvg.dem.c=F
+[![Typing SVG](s://readme-typisvg.dem.c=Fk
 | ![Ret](https://img.ldso/bgeamjm,
 | ![AWS](https:img.shs./b
 nmm
