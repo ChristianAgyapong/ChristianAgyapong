@@ -1,4 +1,4 @@
-njm<div alcente
+,m,.njm<div alcente
 
 <img src="h://avatars.githubcontent.cohhChriaupwmmm
 [![Typing SVG](s://readme-typisvg.dem.cof=FiCm 
