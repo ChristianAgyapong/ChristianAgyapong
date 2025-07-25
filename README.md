@@ -2,7 +2,7 @@
 
 <img src="h://avatars.githubcontentchhChriaupwmmm
 [![Typing SVG](s://readme-typisvg.dem.cof=FiC
-| ![React](https://img.ldso/badgeamjm,
+| ![React](https://img.ldso/bgeamjm,
 | ![AWS](https://img.shlds./bad
 nmm
 <div align="n
