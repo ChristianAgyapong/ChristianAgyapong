@@ -8,7 +8,7 @@ njm<div alcente
 <div align="
 
 ```mermaid
-bar
+barn
   title Peer Standing
   "ChristianAgyapong" : 98
   "tj" : 99
