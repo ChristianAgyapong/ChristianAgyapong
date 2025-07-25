@@ -4,7 +4,7 @@ njm<div alcente
 [![Typing SVG](s://readme-typisvg.dem.cof=FiCm 
 | ![React](https://img.shieldso/badgeab?mnjm,m
 | ![AWS](https://img.shields.io/badge/Ann mn
-nmmmm
+nmmmmm
 <div align="n
 
 ```mermaid
