@@ -7,7 +7,7 @@
 </p>
 
 --
-<div align="center"> solutions with ponpr
+<div align="center"> solutions with po
 </div>
 
 ---
