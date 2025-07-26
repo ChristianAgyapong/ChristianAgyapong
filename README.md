@@ -3,7 +3,7 @@ m
 <h1 style="font-size:2.6em; font-weight:900; letter-spacing:1px;">🚀 Christian Agyapong</ mlh1>
 mnmmn  
 <img src="https://avatars.githubusercontent.com/ChristianAgyapong" width="115" l="bo,mrderradius:50m%; border: 2.5px s nmoli d #0n0D4AA;">
-nnbmnc,m,m
+nnbmnc,
 <p>cmmmnm
   <img src="https://img.shields.io/badge/🌍%20Accra,%20Ghana-00D4AA?sty=forn-thmme-adg ne&labelCor=2346mmm
   <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=f the-alelr=2 3m 2n9
