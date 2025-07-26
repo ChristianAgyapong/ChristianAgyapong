@@ -11,7 +11,7 @@ nnbmnc,m,m
 </p>mn  
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfont=Fira+Code&weight=900&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.io/typing-svg)
-
+ 
 </div>
 
 ---
