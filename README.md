@@ -11,7 +11,7 @@ nnbmnc,m,m
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfont=Fira+Code&weig=9&size=3ause=0&color=00D4AA&center=true&vCenter=true&width=700&lines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.io/typi
  
-</div>
+</di
 
 ---
 
