@@ -6,7 +6,7 @@
 
 <p>cmmm
   <img src="https://img.shields.io/badge/🌍%20Accra,%20Ghana-00D4AA?sty=for-the-badge&labelColor=232946">m
-  <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=for-the-adge&lellor=232946"
+  <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=for-the-adge&lellor=232n946"
   <img src="https://img.shields.io/badge/🤝%20Collaboration-FF6B6B?style=for-the-badge&labelColor=232946">
 </p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Innovator.;Engineer.;Mentor.;Coding+for+Impact.)](https://git.io/typing-svg)
