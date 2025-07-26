@@ -9,7 +9,7 @@ nnw
 <p>cmmmnmddd
   <img src="https://img.shields.io/badge/🌍%20Accr04AA?sforn-thmadg ne&lalC2346mmma
   <img src="https://img.shields.io/ge/💡%20Learn-4ECD4?style=f e-alelrs
-  <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-sljkffd
+  <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-sljkffdl;
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFira+e&&ze=3au0&cor=00D4&centetrue&vCenter=true&widt700&sslines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.iaawfggf
 <dvaaaaaaa
