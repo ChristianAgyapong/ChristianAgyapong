@@ -9,7 +9,7 @@ nnbmnc,m,m
   <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=f the-adge&lellor=2 3m 2n946"
   <img src="https://img.shields.io/badge/🤝%20Collaboration F6B6B?smtyle=for-the-badge&labelColor= 232946"> 
 <
-[![Typing SVG](https://readme-typing-svg.demolab.com? mnfont=Fira+Code&weight=900&size=32&pause=0&color=00D4AA&center=true&vCenter=true&width=700&lines=Innovato
+[![Typing SVG](https://readme-typing-svg.demolab.com? mnfont=Fira+Code&weight=900&size=3ause=0&color=00D4AA&center=true&vCenter=true&width=700&lines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.io/typing-svg
  
 </div>
