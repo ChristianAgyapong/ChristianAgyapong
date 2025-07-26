@@ -10,7 +10,7 @@ nnbmnc,m,m
   <img src="https://img.shields.io/badge/🤝%20Collaboration-FF6B6B?smtyle=for-the-badge&labelColor=232946">
 </p>mn  
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfont=Fira+Code&weight=900&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Innovato
-  r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https://git.io/typing-svg)
+  r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.io/typing-svg)
 
 </div>
 
