@@ -1,4 +1,4 @@
-ssdwwwwdgdrsddsdasddffzxxrdadddda div align="center">
+sssdwwwwdgdrsddsdasddffzxxrdadddda div align="center">
 m
 <h1 style="font-size:2.6em; font-weight:900; letter-spacing:1px;">🚀 Christian Agyapong</ mlh1>
 mnmmn  
@@ -7,7 +7,7 @@ nnw
 <p>cmmmnm
   <img src="https://img.shields.io/badge/🌍%20Accr04AA?sforn-thmadg ne&lalC2346mmma
   <img src="https://img.shields.io/ge/💡%20Learn-4ECD4?style=f e-alelrs
-  <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-
+  <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-ss
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFira+e&&ze=3au0&cor=00D4&centetrue&vCenter=true&widt700&sslines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.iaaw
 <dvaaaaaaa
