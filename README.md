@@ -5,7 +5,7 @@ mn
 <img src="https://avatars.githubusercontent.com/ChristianAgyapong" width="115" le="borderradius:50%; border:2.5px solid #00D4AA;">
 nn
 <p>cmmmn
-  <img src="https://img.shields.io/badge/🌍%20Accra,%20Ghana-00D4AA?sty=forn-thmme-bkadge&labelColor=23m2946">m
+  <img src="https://img.shields.io/badge/🌍%20Accra,%20Ghana-00D4AA?sty=forn-thmme-bkadgne&labelColor=23m2946">m
   <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=for-the-adge&lellor=232n946"mn
   <img src="https://img.shields.io/badge/🤝%20Collaboration-FF6B6B?smtyle=for-the-badge&labelColor=232946">
 </p>
