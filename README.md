@@ -8,7 +8,7 @@ mnmmn  mthlr\f,dmfdnmmmmmjhfmndm
   <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-sljkffdl;ljknm,
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFiara+e&&ze=3au0&cor=00D4&mmvCenter=te&aa&sslines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /mm
-<dvaaaaa
+<dvaaaaa mn
 aa
 ---
 
