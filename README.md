@@ -9,8 +9,7 @@ nnbmnc,m,m
   <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=f the-ae&lelr=2 3m 2n946"
   <img src="https://img.shields.io/badge/🤝%20Collaboration F6B6B?smt=for-the-badge&lalCr= 2326">
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfont=Fira+Code&weig=9&size=3ause=0&color=00D4AA&center=true&vCenter=true&width=700&lines=Innovato
-  r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.io/typi
- 
+  r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.io/typ
 </di
 
 ---
