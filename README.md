@@ -9,7 +9,7 @@ nn
   <img src="https://img.shields.io/ge/💡%20Learn-4ECD4?style=f e-alelr
   <img src="https://img.shields.io/badge/🤝%2oboion F6Bt=for-the-bg
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFira+e&&size=3au0&cor=00D4&centetrue&vCenter=true&widt700&lines=Innovato
-  r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.io
+  r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.i
 <
 
 ---
