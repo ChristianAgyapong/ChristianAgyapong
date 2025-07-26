@@ -10,7 +10,7 @@ nn
   <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFira+e&&ze=3au0&cor=00D4&centetrue&vCenter=true&widt700&lines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.i
-<dva
+<dvaaaaaaa
 
 ---
 
