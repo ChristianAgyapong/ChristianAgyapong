@@ -7,7 +7,7 @@ nn
 <p>cmmmnm
   <img src="https://img.shields.io/badge/🌍%20Accr04AA?sforn-thmadg ne&lalC2346mmm
   <img src="https://img.shields.io/ge/💡%20Learn-4ECD4?style=f e-alelr
-  <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-bg
+  <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFira+e&&ze=3au0&cor=00D4&centetrue&vCenter=true&widt700&lines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.i
 <
