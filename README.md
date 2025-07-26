@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/🌍%20Accra,%20Ghana-00D4AA?sty=for-the-badge&labelColor=232946">
-  <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=for-the-badge&lellor=232946">
+  <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=for-the-adge&lellor=232946">
   <img src="https://img.shields.io/badge/🤝%20Collaboration-FF6B6B?style=for-the-badge&labelColor=232946">
 </p>
 
