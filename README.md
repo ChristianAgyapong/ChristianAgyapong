@@ -78,15 +78,7 @@ Hi! I'm Christian Agyapong — a passionate technologist based in Accra, Ghana. 
 
 ---
 
-## 💬 Testimonials
 
-> “Christian’s code is clean and efficient, and his UI/UX work is stunning.”  
-> — [A satisfied client](https://github.com/ChristianAgyapong)
-
-> “A visionary full-stack developer and an inspiring mentor!”  
-> — Dev Peer
-
----
 
 ## 📬 Connect
 
