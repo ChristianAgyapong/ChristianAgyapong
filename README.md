@@ -3,7 +3,7 @@ mmnm
 <h1 style="font-size:2.6em; font-weight:900; letter-spacing:1px;">🚀 Christia
   ds smnjl
   dn Agyapong</ mlh1>ssss
-mnmmn  mthlr\f,dmfdnmmm
+mnmmn  mthlr\f,dmfdnmmmmm
 <img src="https://avatars.githubusercontent.com/="115" l="bo,mrderradius:50m%; boer:m,m,, 2mm.\\5px s\ nmoli ss
   <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-sljkffdl;
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFira+e&&ze=3au0&cor=00D4&mmvCenter=te&widt700&sslines=Innovato
