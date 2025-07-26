@@ -1,5 +1,5 @@
 sssssssssssssddddddddddddddddddddddSNSMS SSMSSSMDSSWWWWSBSMN
-<img src="https://avatars.githubusercontent.com/="115" l="bo,mrderradius:50m%; mnboer:m,mkojknm,, 2mmnbkjmmmbm,.\\5px sa\ nmoln i ssmjlk
+<img src="https://avatars.githubusercontent.com/="115" l="bo,mrderradius:50m%; mnboer:m,mkojknm,m,jkn, 2mmnbkjmmmbm,.\\5px sa\ nmoln i ssmjlk
   <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-sljkffdl;l m,jknmnnm,mns,
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFiara+e&&ze=3au0&cor=00D4&mmvCenter=te&aa&sslines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /mmmnkfff
