@@ -5,7 +5,7 @@ mnmmn
 <img src="https://avatars.githubusercontent.com/ChristianAgyapong" width="115" l="bo,mrderradius:50m%; boer: 2.5px s nmoli d #0n0D4AA;">
 nn
 <p>cmmmnm
-  <img src="https://img.shields.io/badge/🌍%20Accra,%20Ghana-00D4AA?sforn-thmadg ne&lalC2346mmm
+  <img src="https://img.shields.io/badge/🌍%20Accr00D4AA?sforn-thmadg ne&lalC2346mmm
   <img src="https://img.shields.io/ge/💡%20Learn-4ECD4?style=f e-alelr
   <img src="https://img.shields.io/badge/🤝%2oboionBt=for-the-bg
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFira+e&&ze=3au0&cor=00D4&centetrue&vCenter=true&widt700&lines=Innovato
