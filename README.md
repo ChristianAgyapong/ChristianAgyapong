@@ -32,12 +32,7 @@ Hi! I'm Christian Agyapong — a passionate technologist based in Accra, Ghana. 
 
 ---
 
-## 🚀 Featured Projects
 
-- [DCIT-201-TEST](https://github.com/ChristianAgyapong/DCIT-201-TEST) — Java OOP Examples
-- [Awesome Portfolio](https://github.com/ChristianAgyapong/Portfolio) — Personal Portfolio Website
-- [Mobile Shop App](https://github.com/ChristianAgyapong/MobileShop) — React Native Shopping Platform
-- [Design System](https://github.com/ChristianAgyapong/DesignSystem) — UI/UX Component Library
 
 ---
 
@@ -57,7 +52,7 @@ Hi! I'm Christian Agyapong — a passionate technologist based in Accra, Ghana. 
 
 **Design & Database:**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Canva](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -80,13 +75,6 @@ Hi! I'm Christian Agyapong — a passionate technologist based in Accra, Ghana. 
 </div>
 
 ---
-
-## 🏆 Certifications
-
-- Google UX Design Professional Certificate
-- MongoDB Certified DBA
-- React Native Developer – Udemy
-- Django Mastery – Coursera
 
 ---
 
