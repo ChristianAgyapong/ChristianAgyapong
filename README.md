@@ -1,4 +1,4 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaamnaamjkx ssssssssssssssssss\\\aaaaaaavwwfggaaawsssssdwwwwdgdrsddsdasddffzxxrdadddda div align="center">
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaamnaamjkx ssssssssssssssssss\\\aaaaaaavwwfggaaawsssssdwwwwdgdrsddsdasddffzxxrdadddda div align="center">
 mmnmmm
 <h1 style="font-size:2.6em; font-weight:900; letter-spacing:1px;">🚀 Christia
   ds smnjl
@@ -9,7 +9,7 @@ mnmmn  mthlr\f,dmfdnmmmmmjh
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfonFiara+e&&ze=3au0&cor=00D4&mmvCenter=te&aa&sslines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.iaawfggfa
 <dvaaaaa
-
+aa
 ---
 
 <div align="center">
