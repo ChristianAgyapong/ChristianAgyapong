@@ -2,7 +2,7 @@
 m
 <h1 style="font-size:2.6em; font-weight:900; letter-spacing:1px;">🚀 Christian Agyapong</ mlh1>
 mnmmn  
-<img src="https://avatars.githubusercontent.com/ChristianAgyapong" width="115" l="bo,mrderradius:50m%; boer: 2.5px s nmoli d #0n0D4AA;">
+<img src="https://avatars.githubusercontent.com/="115" l="bo,mrderradius:50m%; boer: 2.5px s nmoli d #0n0D4AA;">
 nn
 <p>cmmmnm
   <img src="https://img.shields.io/badge/🌍%20Accr00D4AA?sforn-thmadg ne&lalC2346mmm
