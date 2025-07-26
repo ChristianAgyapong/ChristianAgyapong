@@ -6,7 +6,7 @@ mnmmn
 nnbmnc,m,m
 <p>cmmmnm
   <img src="https://img.shields.io/badge/🌍%20Accra,%20Ghana-00D4AA?sty=forn-thmme-adg ne&labelCor=2346">mmm
-  <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=f the-adge&lellor=2 3m 2n946"
+  <img src="https://img.shields.io/badge/💡%20Learning-4ECD4?style=f the-adge&lelr=2 3m 2n946"
   <img src="https://img.shields.io/badge/🤝%20Collaboration F6B6B?smt=for-the-badge&labelCr= 232946">
 [![Typing SVG](https://readme-typing-svg.demolab.com? mnfont=Fira+Code&weig=900&size=3ause=0&color=00D4AA&center=true&vCenter=true&width=700&lines=Innovato
   r.;Engineer.;Mentor.;Coding+fgjnor+Impact.)](https:/ /git.io/typing-
