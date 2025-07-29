@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="font-size:2.6em; font-weight:900; letter-spacing:1px;">🚀 Christia Agyapong</h1>
+<h1 style="font-size:2.6em; font-weight:900; letter-spacing:1px;">🚀 Christian Agyapong</h1>
 
 <img src="https://avatars.githubusercontent.com/ChristianAgyapong" width="115" style="border-radius:50%; border:2.5px solid #00D4AA;">
 
