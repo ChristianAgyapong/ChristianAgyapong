@@ -82,6 +82,6 @@ Hi! I'm Christian Agyapong — a passionate technologist based in Accra, Ghana. 
 
 ---
 
-<i style="font-size:1.3em;">“Crafting code, building value, and inspiring innovation.”</i>
+<i style="font-size:1.3em;">“Building value, and inspiring innovation.”</i>
 
 </div>
