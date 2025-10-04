@@ -4,6 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/ChristianAgyapong" width="120" style="border-radius:50%; border:3px solid #00D4AA;">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Expert;UI%2FUX+Designer;Database+Administrator)](https://git.io/typing-svg)
 
 <p>
