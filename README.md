@@ -8,33 +8,33 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Building+Scalable+Solutions+for+High-Growth+Companies;Delivered+50%2B+Production-Grade+Applications;Specialized+in+Full-Stack+%26+Mobile+Architecture;Driving+Digital+Transformation+%26+Technical+Innovation)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/📍%20Accra,%20Ghana%20|%20Remote-00D4AA?style=for-the-badge&labelColor=232946">
-  <img src="https://img.shields.io/badge/💼%20Available%20for%20Consulting-4ECDC4?style=for-the-badge&labelColor=232946">
-  <img src="https://img.shields.io/badge/🚀%20Open%20to%20Investment%20Opportunities-FF6B6B?style=for-the-badge&labelColor=232946">
+  <img src="https://img.shields.io/badge/Location-Accra%2C%20Ghana%20|%20Remote-00D4AA?style=for-the-badge&labelColor=232946">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Consulting-4ECDC4?style=for-the-badge&labelColor=232946">
+  <img src="https://img.shields.io/badge/Opportunities-Open%20to%20Investment-FF6B6B?style=for-the-badge&labelColor=232946">
 </p>
 
 </div>
 
 ---
 
-## 💼 Executive Summary
+## Executive Summary
 
 **Seasoned software engineer with 5+ years of experience** delivering end-to-end solutions across web, mobile, and cloud platforms. Proven track record of architecting scalable systems that serve thousands of users, reducing operational costs by up to 40%, and accelerating product development cycles by 50%.
 
 **Core Value Proposition:**
-- ✅ **Full-Stack Expertise:** From concept to deployment, building production-ready applications
-- ✅ **Mobile-First Development:** React Native & Flutter apps with native performance
-- ✅ **Business-Driven Solutions:** Focused on ROI, user growth, and operational efficiency  
-- ✅ **Rapid Development:** Agile methodology, iterative releases, and continuous improvement
-- ✅ **Technical Leadership:** Mentoring teams, code reviews, and architectural decisions
+- **Full-Stack Expertise:** From concept to deployment, building production-ready applications
+- **Mobile-First Development:** React Native & Flutter apps with native performance
+- **Business-Driven Solutions:** Focused on ROI, user growth, and operational efficiency  
+- **Rapid Development:** Agile methodology, iterative releases, and continuous improvement
+- **Technical Leadership:** Mentoring teams, code reviews, and architectural decisions
 
 ---
 
-## 🎯 Key Achievements & Impact
+## Key Achievements & Impact
 
 <div align="center">
 
-| 📊 **Metric** | 💡 **Achievement** | 🎯 **Business Impact** |
+| **Metric** | **Achievement** | **Business Impact** |
 |---------------|-------------------|------------------------|
 | **Applications Deployed** | 50+ production apps | Serving thousands of active users globally |
 | **Performance Optimization** | 40% faster load times | Enhanced user retention & satisfaction |
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏆 Technical Expertise & Business Solutions
+## Technical Expertise & Business Solutions
 
 ```mermaid
 mindmap
@@ -92,7 +92,7 @@ mindmap
 
 ---
 
-## 🛠️ Technology Stack & Industry Standards
+## Technology Stack & Industry Standards
 
 <div align="center">
 
@@ -139,7 +139,7 @@ mindmap
 
 ---
 
-## 📊 Professional Competencies
+## Professional Competencies
 
 <div align="center">
 
@@ -158,22 +158,22 @@ Technical Leadership         █████████████████
 
 ---
 
-## 🚀 Featured Projects & Case Studies
+## Featured Projects & Case Studies
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🎬 ChrixTech Movies Platform
+### ChrixTech Movies Platform
 **Enterprise-Grade Entertainment Solution**
 
 **Tech Stack:** React.js, Node.js, RESTful APIs  
 **Key Features:**
-- 🎯 Real-time movie data aggregation
-- 🔍 Advanced search & filtering
-- 📱 Fully responsive design
-- ⚡ Optimized performance (<2s load time)
+- Real-time movie data aggregation
+- Advanced search & filtering
+- Fully responsive design
+- Optimized performance (<2s load time)
 
 **Business Impact:**
 - Growing user base with active engagement
@@ -185,15 +185,15 @@ Technical Leadership         █████████████████
 </td>
 <td width="50%">
 
-### ⛪ Church Management System
+### Church Management System
 **Complete Digital Transformation Solution**
 
 **Tech Stack:** Full-Stack JavaScript, MongoDB, AWS  
 **Key Features:**
-- 👥 Member & attendance management
-- 📅 Event scheduling & notifications
-- 💰 Integrated donation processing
-- 📊 Analytics dashboard
+- Member & attendance management
+- Event scheduling & notifications
+- Integrated donation processing
+- Analytics dashboard
 
 **Business Impact:**
 - Serving active church community
@@ -207,15 +207,15 @@ Technical Leadership         █████████████████
 <tr>
 <td width="50%">
 
-### 🐍 Lil-py Development Toolkit
+### Lil-py Development Toolkit
 **Open-Source Python Utility Library**
 
 **Tech Stack:** Python, PyPI, CI/CD  
 **Key Features:**
-- 🔧 Reusable helper functions
-- 🧪 Comprehensive test coverage
-- 📦 Lightweight & fast
-- 📚 Well-documented
+- Reusable helper functions
+- Comprehensive test coverage
+- Lightweight & fast
+- Well-documented
 
 **Business Impact:**
 - Growing open-source community
@@ -227,15 +227,15 @@ Technical Leadership         █████████████████
 </td>
 <td width="50%">
 
-### 🌾 AgriTech Digital Platform
+### AgriTech Digital Platform
 **Smart Agriculture Management System**
 
 **Tech Stack:** React, Python, IoT Integration  
 **Key Features:**
-- 📊 Farm analytics & insights
-- 🌤️ Weather integration
-- 📈 Yield prediction models
-- 💼 Marketplace connectivity
+- Farm analytics & insights
+- Weather integration
+- Yield prediction models
+- Marketplace connectivity
 
 **Business Impact:**
 - Supporting farmers with technology
@@ -251,7 +251,7 @@ Technical Leadership         █████████████████
 
 ---
 
-## 📈 Performance Metrics & GitHub Analytics
+## Performance Metrics & GitHub Analytics
 
 <div align="center">
 
@@ -266,7 +266,7 @@ Technical Leadership         █████████████████
 
 ---
 
-## 🎯 Professional Development & Growth
+## Professional Development & Growth
 
 ```mermaid
 journey
@@ -287,17 +287,17 @@ journey
 
 ---
 
-## 💡 Services & Collaboration Opportunities
+## Services & Collaboration Opportunities
 
 <div align="center">
 
-### 🤝 How I Can Add Value to Your Organization
+### How I Can Add Value to Your Organization
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🏗️ **Technical Architecture**
+### **Technical Architecture**
 Designing scalable systems that grow with your business
 - System design & architecture
 - Technology stack selection
@@ -307,7 +307,7 @@ Designing scalable systems that grow with your business
 </td>
 <td width="33%" align="center">
 
-### 💼 **Product Development**
+### **Product Development**
 Building MVPs and production apps from concept to launch
 - Full-stack web applications
 - Cross-platform mobile apps
@@ -317,7 +317,7 @@ Building MVPs and production apps from concept to launch
 </td>
 <td width="33%" align="center">
 
-### 👨‍💼 **Technical Consulting**
+### **Technical Consulting**
 Strategic guidance for tech-driven growth
 - Code reviews & audits
 - Team training & mentorship
@@ -332,11 +332,11 @@ Strategic guidance for tech-driven growth
 
 ---
 
-## 🎓 Education & Professional Development
+## Education & Professional Development
 
 <div align="center">
 
-| 🎓 **Qualification** | 🏛️ **Institution** | 📅 **Status** |
+| **Qualification** | **Institution** | **Status** |
 |---------------------|-------------------|--------------|
 | **B.Sc. Computer Science** | University of Ghana | Completed |
 | **AWS Certified Solutions Architect** | Amazon Web Services | In Progress |
@@ -348,7 +348,7 @@ Strategic guidance for tech-driven growth
 
 ---
 
-## 💬 Professional Recognition
+## Professional Recognition
 
 <div align="center">
 
@@ -367,11 +367,11 @@ Strategic guidance for tech-driven growth
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
-### 📞 Ready to discuss your next project?
+### Ready to discuss your next project?
 
 <p>
 <a href="https://www.linkedin.com/in/christian-agyapong">
@@ -389,12 +389,12 @@ Strategic guidance for tech-driven growth
 
 <br>
 
-### 💼 Availability & Engagement
+### Availability & Engagement
 
 <p>
-  <img src="https://img.shields.io/badge/✅%20Available%20for%20Consulting-00D4AA?style=for-the-badge&labelColor=232946">
-  <img src="https://img.shields.io/badge/🚀%20Open%20to%20Partnerships-FF6B6B?style=for-the-badge&labelColor=232946">
-  <img src="https://img.shields.io/badge/💡%20Investor%20Discussions%20Welcome-4ECDC4?style=for-the-badge&labelColor=232946">
+  <img src="https://img.shields.io/badge/Available%20for%20Consulting-00D4AA?style=for-the-badge&labelColor=232946">
+  <img src="https://img.shields.io/badge/Open%20to%20Partnerships-FF6B6B?style=for-the-badge&labelColor=232946">
+  <img src="https://img.shields.io/badge/Investor%20Discussions%20Welcome-4ECDC4?style=for-the-badge&labelColor=232946">
 </p>
 
 <br>
@@ -408,13 +408,13 @@ Strategic guidance for tech-driven growth
 
 <div align="center">
 
-### 🎯 My Mission
+### My Mission
 
 *"Leveraging technology to solve real-world problems, drive business growth, and create meaningful impact for clients and communities."*
 
 <br>
 
-**🔗 Let's build something extraordinary together**
+**Let's build something extraordinary together**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=120&section=footer"/>
 
