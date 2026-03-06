@@ -48,21 +48,6 @@ I'm a passionate Full Stack Developer specializing in building modern web and mo
 
 ---
 
-## Featured Projects
-
-### [ChrixTech Movies](https://github.com/ChristianAgyapong/ChrixTech-MoviesSite)
-Modern movie discovery platform built with React.js and responsive design
-
-### [Church Management System](https://github.com/ChristianAgyapong/Fullstack-church-APP)
-Full-stack church management solution with member portal, event scheduling, and donation tracking
-
-### [AgriTech Platform](https://github.com/ChristianAgyapong/Farm-site)
-Connecting farmers with modern technology for better farm management
-
-### [Lil-py Utils](https://github.com/ChristianAgyapong/Lil-py)
-Python development utilities and helper functions for developers
-
----
 
 ## GitHub Stats
 
