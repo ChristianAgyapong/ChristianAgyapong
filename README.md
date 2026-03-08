@@ -10,7 +10,7 @@
 
 <br/>
 
-📍 Accra, Ghana &nbsp;|&nbsp; 🤝 Open to Collaborate &nbsp;|&nbsp; 📧 [christian.agyapong@example.com](mailto:christian.agyapong@example.com)
+📍 Accra, Ghana &nbsp;|&nbsp; 🤝 Open to Collaborate &nbsp;|&nbsp; 📧 [christianagyapong2023@gmail.com](mailto:christian.agyapong@example.com)
 
 <br/>
 
