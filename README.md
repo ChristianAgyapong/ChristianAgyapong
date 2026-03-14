@@ -10,7 +10,7 @@
 
 <br/>
 
-📍 Accra-Newtown, Ghana &nbsp;|&nbsp; 🤝 Open to Collaborate &nbsp;|&nbsp; 📧 [christianagyapong2023@gmail.com](mailto:christian.agyapong@example.com)
+📍 Accra-Newtown, Ghana &nbsp;|&nbsp; 🤝 Open to Collaborates &nbsp;|&nbsp; 📧 [christianagyapong2023@gmail.com](mailto:christian.agyapong@example.com)
 
 <br/>
 
