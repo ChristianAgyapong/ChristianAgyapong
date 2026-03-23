@@ -49,7 +49,7 @@ const christian: Developer = {
 
 **🔭 Currently working on** React Native & Full-Stack projects  
 **🌱 Learning** Cloud Architecture & AI/ML Integration  
-**🤝 Open to** collaborate on innovative tech solutions  
+**🤝 Open to** collaborates on innovative tech solutions  
 **💡 Passionate about** Open Source contributions  
 **⚡ Fun fact** I debug with console.log and I'm not ashamed  
 
