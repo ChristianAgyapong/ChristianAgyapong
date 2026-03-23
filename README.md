@@ -57,7 +57,7 @@ const christian: Developer = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 <div align="center">
 
