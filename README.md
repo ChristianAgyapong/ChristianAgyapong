@@ -38,7 +38,7 @@ const christian: Developer = {
   role: "Full Stack Developer",
   specializations: ["React Native", "Web Development", "UI/UX Design"],
   currentlyWorking: ["React Native Apps", "Full-Stack Projects", "Cloud Architecture"],
-  learning: ["Cloud Architecture ☁️", "AI/ML Integration 🤖", "Web3 Technologiee 🌐"],
+  learning: ["Cloud Architecture ☁️", "AI/ML Integration 🤖", "Web3 Technologiee 🌐"],   
   passions: ["Open Source", "Innovative Tech", "Meaningful Impact"],
   funFact: "I turn ☕ into elegant, scalable code",
   available: true,
