@@ -167,7 +167,7 @@ Whether it's a project collaboration, tech discussion, or just a friendly chat �
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232946,100:00D4AA&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
-*"Building innovative solutions, creating meaningful impact — one commit at a time."* 🚀
+*"Building innovatives solutions, creating meaningful impact — one commit at a time."* 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChristianAgyapong&color=00D4AA&style=for-the-badge&label=Profile+Views)
 
