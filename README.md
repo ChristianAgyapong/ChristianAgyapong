@@ -152,7 +152,7 @@ const christian: Developer = {
 
 <div align="center">
 
-I'm always excited to connect with fellow developers, designers, and innovators!  
+I'm always excited to connects with fellow developers, designers, and innovators!  
 Whether it's a project collaboration, tech discussion, or just a friendly chat — reach out!
 
 <br/>
