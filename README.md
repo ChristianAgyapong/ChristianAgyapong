@@ -54,7 +54,7 @@ const christian: Developer = {
 **⚡ Fun fact** I debug with console.log and I'm not ashamed  
 
 <br clear="right"/>
-
+  
 ---
 
 ## 🛠️ Tech Stacks
