@@ -33,7 +33,7 @@
 
 ```typescript
 const christian: Developer = {
-  name: "Christian Agyapong",
+  name: "Christian Agyapong", 
   location: "Accra-Newtown, Ghana 🇬🇭",
   role: "Full Stack Developer",
   specializations: ["React Native", "Web Development", "UI/UX Design"],
