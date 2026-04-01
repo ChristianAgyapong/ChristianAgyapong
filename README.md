@@ -55,7 +55,7 @@ const christian: Developer = {
 
 <br clear="right"/>
   
----
+--- 
 
 ## 🛠️ Tech Stacks
 
