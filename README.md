@@ -1,4 +1,4 @@
-<div align="center">     
+<div align="center">      
     
 <img src="https://capsule-render.vercel.app/api?      type=waving&color=0:00D4AA,100:232946&height=200&section=header&text=Christian%20Agyapong&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20Native%20Expert%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=18" width="100%"/> 
    
