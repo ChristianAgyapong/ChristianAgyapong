@@ -4,7 +4,7 @@
    
 <img src="https://avatars.githubusercontent.com/ChristianAgyapong" width="130" style="border-radius: 50%; border: 4px solid #00D4AA; margin-top: -20px;"/>
    
-<br/>    
+<br/>     
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+Native+Expert+%F0%9F%93%B1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Cloud+%26+AI%2FML+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
    
